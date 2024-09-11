@@ -7,7 +7,7 @@ using Fixie.Internal;
 namespace Fixie
 {
     /// <summary>
-    /// A test case being executed, representing a single call to a test method. Change again and again and another
+    /// A test case being executed, representing a single call to a test method. Change again and again and another again
     /// </summary>
     public class Case : BehaviorContext
     {
